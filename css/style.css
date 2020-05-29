@@ -1,0 +1,17 @@
+/* Custom Styles */
+
+#yourComments {  
+    background-color: white;  
+    border: 1px solid rgb(204, 204, 204); 
+     border-collapse: separate;  
+     border-radius: 3px; 
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.075) inset; 
+     box-sizing: content-box;  
+     max-height: 25em;  
+     min-height: 15em;  
+     outline: medium none;  
+     overflow: scroll;  
+     padding: 4px; 
+}
+
+/* Custom Styles */
